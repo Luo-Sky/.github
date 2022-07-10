@@ -1,5 +1,5 @@
 <div div align= center>
-<img src="./images/luo-sky.jpg" width = "123" height = "100" />
+<img src="https://github.com/Luo-Sky/.github/blob/main/profile/images/luo-sky.jpg" width = "123" height = "100" />
 </div>
 
 # L-Sky(珞Sky)
